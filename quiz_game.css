@@ -1,0 +1,92 @@
+body {
+    background-color: #558a4e;
+}
+
+.login_div1,
+.login_div2 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 30%;
+}
+
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#word {
+    width: 60%;
+}
+
+#word_display {
+    letter-spacing: 5px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #43793c;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+button {
+    background-color: rgb(32, 32, 32);
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#justanID {
+
+    color: rgb(255, 255, 255);
+}
+
+#btnnn {
+
+    background-color: #3c6937;
+
+    border-radius: 6%;
+    width: 15%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    size: 20%;
+
+
+}
+
+#n1 {
+    font-size: 200%;
+    color: #fefffe;
+}
+
+#n2 {
+    font-size: 200%;
+    color: #fefffe;
+}
+
+#number_1 {
+    width: 50%;
+    size: 130%;
+    font-size: 110%;
+}
+
+#number_2 {
+    width: 50%;
+    size: 130%;
+    font-size: 110%;
+}
